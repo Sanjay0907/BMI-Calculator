@@ -1,16 +1,8 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+A Flutter project to calculate BMI (Body Mass Index).
 
-## Getting Started
+## App Screen
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Sanjay0907/BMI-Calculator/assets/90062803/a32bbd77-c3b2-4351-9a35-3a2176ebb12b" alt="The Minion Selfie" width="300" height="700">        <img src="https://github.com/Sanjay0907/BMI-Calculator/assets/90062803/46aae45a-5f5e-4a00-a37c-5dae4c1cee6c" alt="The Minion Selfie" width="300" height="700">        <img src="https://github.com/Sanjay0907/BMI-Calculator/assets/90062803/d57552ef-d678-4a95-b5c0-4d2a639537da" alt="The Minion Selfie" width="300" height="700">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
